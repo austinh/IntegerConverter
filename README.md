@@ -3,7 +3,7 @@
 
  * Converts odd integers to strings and returns the sum of the common factors of even numbers.
  * Input must be integers, or decimals.
- * Even number's sum will ignore fractions.
+ * Even number's sum will ignore fractions/decimals. (Only use whole numbers for factors)
  * Negative numbers also be ignored for even numbers
  * Uses a modified Sieve of Erastonthenes algorithm
  

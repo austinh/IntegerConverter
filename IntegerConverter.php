@@ -9,7 +9,7 @@ namespace Labroots\Utility;
  *
  *
  * Input must be integers, or decimals.
- * Even number's sum will ignore fractions.
+ * Even number's sum will ignore fractions/decimals.
  * Negative numbers also be ignored for even numbers
  *
  * Uses a modified Sieve of Erastonthenes algorithm

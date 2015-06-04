@@ -11,9 +11,12 @@ Example Code:
 
 ```
 <?php
+ // Assumes an autoloader is in place.
+  include "IntegerConverter.php"
+
   $numbers = [0, '3', 0.51, 0.64, -10.2, 1007, 64, 80, -2, 4];
 
-  $converter = new IntegerConverter($numbers);
+  $converter = new Labroots\Util\IntegerConverter($numbers);
   $converter->displayAsHTML();
 ?>
 ```

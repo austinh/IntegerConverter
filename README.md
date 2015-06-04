@@ -42,4 +42,4 @@ Odd numbers were 3, 1007, 11.34. (Note how odd numbers can accept negatives and 
 Even numbers were 64, 80, 4. Their common factors are 1, 2, 4. This sums to create 7.
 
 
-You can also uses ->getValues() to retrieve the values of "even_sum" and "odd_strings" as an array.
+You can also use ->getValues() to retrieve the values of "even_sum" and "odd_strings" as an array.

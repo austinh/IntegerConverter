@@ -1,17 +1,11 @@
 # IntegerConverter
 
 
- * Austin Hammer (June 2015)
- * Converts odd integers to strings
- * and returns the sum of the common factors of even numbers.
- *
- *
+ * Converts odd integers to strings and returns the sum of the common factors of even numbers.
  * Input must be integers, or decimals.
  * Even number's sum will ignore fractions.
  * Negative numbers also be ignored for even numbers
- *
  * Uses a modified Sieve of Erastonthenes algorithm
- * 
  
 Example Code:
 
